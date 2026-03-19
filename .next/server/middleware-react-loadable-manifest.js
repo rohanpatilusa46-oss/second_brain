@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"app/page.tsx -> ./components/GraphCanvas\":{\"id\":\"app/page.tsx -> ./components/GraphCanvas\",\"files\":[\"static/chunks/_app-pages-browser_app_components_GraphCanvas_tsx.js\"]}}"
